@@ -13,8 +13,6 @@ I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineerin
 
 I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
 
-I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
-
 ## Research Interests  
 - **Active Learning**  
 - **Continual Learning**  
