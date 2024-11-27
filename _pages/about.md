@@ -11,7 +11,7 @@ Welcome to My Homepage!
 
 I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). My research focuses on **Deep Active Learning** and **Continual Learning**, with a passion for enhancing AI's adaptability and performance.
 
-I hold an M.S. in Computer Science from the University of North Texas and a B.S. in Computer Science and Engineering from East West University, Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
+I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
 
 I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
 
@@ -26,7 +26,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 ## News  
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).  
 - :pushpin: **[May 2024]** Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
-- :pushpin: **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00 [Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159).  
+- :pushpin: **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].  
 
 
 ## Education  
@@ -65,12 +65,12 @@ Let’s collaborate and innovate together to shape the future of AI!
 ## Work Experience  
 
 ### Teaching Experience  
-- **Teaching Assistant** — *University of North Texas (Fall 2021 - Present)*  
-- **Senior Lecturer** — *European University of Bangladesh (Spring 2021 - Summer 2021)*  
+- **Teaching Assistant** — *[University of North Texas](https://engineering.unt.edu/cse/index.html) (Fall 2021 - Present)*  
+- **Senior Lecturer** — *[European University of Bangladesh](https://eub.edu.bd/) (Spring 2021 - Summer 2021)*  
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Lecturer** — *European University of Bangladesh (Fall 2017 - Fall 2020)*  
+- **Lecturer** — *[European University of Bangladesh](https://eub.edu.bd/) (Fall 2017 - Fall 2020)*  
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Teaching Assistant** — *East West University (Summer 2016 - Summer 2017)*  
+- **Teaching Assistant** — *[East West University](https://www.ewubd.edu/), Dhaka (Summer 2016 - Summer 2017)*  
 
 ### Research and Coordination Roles  
 - **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
