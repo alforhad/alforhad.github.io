@@ -5,11 +5,6 @@ author_profile: true
 redirect_from:  
   - /about/  
   - /about.html  
-
----
----
-
-# Md Abdullah Al Forhad  
 **Ph.D. Candidate, Computer Science and Engineering**  
 [University of North Texas](https://engineering.unt.edu/cse/index.html)  
 
