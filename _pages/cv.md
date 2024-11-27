@@ -62,15 +62,15 @@ Work experience
 * Fall 2021 - Current: Teaching Assistant
   * University of North Texas
 
-* Spring 2021 - Summer 2021: [Senior Lecturer](https://eub.edu.bd/department-of-cse/md-abdullah-al-forhad/)
+* Spring 2021 - Summer 2021: Senior Lecturer
   * European University of Bangladesh
   * [Courses Taught at EUB](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)
 
-* Fall 2017 - Fall 2020: [Lecturer](https://eub.edu.bd/department-of-cse/md-abdullah-al-forhad/)
+* Fall 2017 - Fall 2020: Lecturer
   * European University of Bangladesh
   * [Courses Taught at EUB](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)
 
-* Summer 2019 - Summer 2021: [Course Coordinator](https://eub.edu.bd/department-of-cse/md-abdullah-al-forhad/)
+* Summer 2019 - Summer 2021: Course Coordinator
   * European University of Bangladesh
   * Duties included: Course planning, design, and development, as well as overseeing course delivery. Additionally, the role involves selecting suitable educational resources, assessing student progress, monitoring learning outcomes, assigning faculty members to specific courses, managing course registrations, and addressing any issues that may arise in relation to the course.
 
