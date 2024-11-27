@@ -86,5 +86,6 @@ Let’s collaborate and innovate together to shape the future of AI!
 - Dean’s List, East West University — 2015  
 - Medha Lanon Fund Scholarship, East West University — 2016  
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=400"></script>
+---
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=200"></script>
+---
