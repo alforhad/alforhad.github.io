@@ -4,11 +4,12 @@ title: "Md Abdullah Al Forhad"
 author_profile: true  
 redirect_from:  
   - /about/  
-  - /about.html  
+  - /about.html 
+---
 **Ph.D. Candidate, Computer Science and Engineering**  
 [University of North Texas](https://engineering.unt.edu/cse/index.html)  
 
----
+
 
 ## Welcome to My Homepage!  
 I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). My research focuses on **Deep Active Learning** and **Continual Learning**, with a passion for enhancing AI's adaptability and performance.
