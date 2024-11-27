@@ -26,7 +26,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 ## News  
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).  
 - :pushpin: **[May 2024]** Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
-- :pushpin: **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00.  
+- :pushpin: **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00 [Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6162).  
 
 
 ## Education  
