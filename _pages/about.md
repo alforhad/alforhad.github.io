@@ -18,7 +18,7 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 
 I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
 
----
+
 
 ## Research Interests  
 - **Active Learning**  
@@ -98,7 +98,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 ---
 
 <div style="text-align: center; margin-top: 50pt; margin-bottom: -50pt">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=400"></script>
 </div>
 
 ---
