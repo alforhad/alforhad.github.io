@@ -15,7 +15,6 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
 
----
 
 ## Research Interests  
 - **Active Learning**  
@@ -23,21 +22,18 @@ I am currently working under the guidance of [Dr. Weishi Shi](https://engineerin
 
 Let’s collaborate and innovate together to shape the future of AI!
 
----
 
 ## News  
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).  
 - :pushpin: **[May 2024]** Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
 - :pushpin: **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00.  
 
----
 
 ## Education  
 - **Ph.D. in Computer Science and Engineering** — University of North Texas, Denton, TX, *(Ongoing)*  
 - **M.S. in Computer Science** — University of North Texas, Denton, TX, 2023  
 - **B.S. in Computer Science and Engineering** — East West University, Dhaka, 2017  
 
----
 
 ## Publications  
 1. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
@@ -65,7 +61,6 @@ Let’s collaborate and innovate together to shape the future of AI!
    *Smart Devices, Applications, and Protocols for the IoT, 2019.*  
    [Read more](https://doi.org/10.4018/978-1-5225-7811-6.ch002)  
 
----
 
 ## Work Experience  
 
@@ -82,7 +77,6 @@ Let’s collaborate and innovate together to shape the future of AI!
 - **Research Assistant** — *ICT Division, Government of Bangladesh, Dhaka (Jul 2019 - Jun 2020)*  
 - **Course Coordinator** — *European University of Bangladesh, Dhaka (Apr 2019 - Jul 2021)*  
 
----
 
 ## Awards and Honors  
 - USC CENG Schol (GR) Scholarship — 2024  
@@ -92,8 +86,5 @@ Let’s collaborate and innovate together to shape the future of AI!
 - Dean’s List, East West University — 2015  
 - Medha Lanon Fund Scholarship, East West University — 2016  
 
----
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=400"></script>
-
----
