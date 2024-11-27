@@ -15,7 +15,6 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 
 I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
 
-
 ## Research Interests  
 - **Active Learning**  
 - **Continual Learning**  
