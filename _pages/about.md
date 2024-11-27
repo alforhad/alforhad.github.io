@@ -78,8 +78,10 @@ Let’s collaborate and innovate together to shape the future of AI!
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
 - **Lecturer** — *European University of Bangladesh (Fall 2017 - Fall 2020)*  
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
+-- - **Teaching Assistant** — *East West University (Summer 2016 - Summer 2017)*  
 
 ### Research and Coordination Roles  
+- **Research Assistant** — *University of North Texas (Summer 2024 - Present)*
 - **Research Assistant** — *ICT Division, Government of Bangladesh (Jul 2019 - Jun 2020)*  
 - **Course Coordinator** — *European University of Bangladesh (Summer 2019 - Summer 2021)*  
 
