@@ -5,5 +5,14 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Education"
+    url: /#education
+  
+  - title: "Work experience"
+    url: /#work experience
+
   - title: "Publications"
     url: /#publications
+
+  - title: "Awards"
+    url: /#awards
