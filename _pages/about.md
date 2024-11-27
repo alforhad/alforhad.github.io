@@ -6,12 +6,7 @@ redirect_from:
   - /about/  
   - /about.html 
 ---
-**Ph.D. Candidate, Computer Science and Engineering**  
-[University of North Texas](https://engineering.unt.edu/cse/index.html)  
-
-
-
-## Welcome to My Homepage!  
+Welcome to My Homepage!  
 I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). My research focuses on **Deep Active Learning** and **Continual Learning**, with a passion for enhancing AI's adaptability and performance.
 
 I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
@@ -31,7 +26,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 ## News  
 - **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).  
 - **[May 2024]** Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
-- **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree.  
+- **[Dec 2023]** Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00.  
 
 ---
 
@@ -98,6 +93,5 @@ Let’s collaborate and innovate together to shape the future of AI!
 ---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=400"></script>
-</div>
 
 ---
