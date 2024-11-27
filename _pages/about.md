@@ -6,10 +6,12 @@ redirect_from:
   - /about/  
   - /about.html 
 ---
+
 Welcome to My Homepage!  
+
 I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). My research focuses on **Deep Active Learning** and **Continual Learning**, with a passion for enhancing AI's adaptability and performance.
 
-I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
+I hold an M.S. in Computer Science from the University of North Texas and a B.S. in Computer Science and Engineering from East West University, Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
 
 I am currently working under the guidance of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html), whose mentorship has been pivotal in my academic journey.
 
@@ -83,12 +85,12 @@ Let’s collaborate and innovate together to shape the future of AI!
 ---
 
 ## Awards and Honors  
-- **USC CENG Schol (GR) Scholarship** — 2024  
-- **Travel Award, UNT College of Engineering** — 2024  
-- **Bangladesh Sweden Trust Fund (BSTF)** — 2022  
-- **Merit List Scholarship, East West University** — 2015  
-- **Dean’s List, East West University** — 2015  
-- **Medha Lanon Fund Scholarship** — 2016  
+- USC CENG Schol (GR) Scholarship — 2024  
+- Travel Award, UNT CSE Department and UNT College of Engineering — 2024  
+- Bangladesh Sweden Trust Fund (BSTF), Ministry of Finance (ERD), Government of Bangladesh — 2022  
+- Merit List Scholarship, East West University — 2015  
+- Dean’s List, East West University — 2015  
+- Medha Lanon Fund Scholarship — 2016  
 
 ---
 
