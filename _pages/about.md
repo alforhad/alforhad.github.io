@@ -33,9 +33,9 @@ Let’s collaborate and innovate together to shape the future of AI!
 ---
 
 ## Education  
-- **Ph.D. in Computer Science and Engineering** — University of North Texas *(Ongoing)*  
-- **M.S. in Computer Science** — University of North Texas, 2023  
-- **B.S. in Computer Science and Engineering** — East West University, 2017  
+- **Ph.D. in Computer Science and Engineering** — University of North Texas, Denton, TX, *(Ongoing)*  
+- **M.S. in Computer Science** — University of North Texas, Denton, TX, 2023  
+- **B.S. in Computer Science and Engineering** — East West University, Dhaka, 2017  
 
 ---
 
@@ -78,9 +78,9 @@ Let’s collaborate and innovate together to shape the future of AI!
 - **Teaching Assistant** — *East West University (Summer 2016 - Summer 2017)*  
 
 ### Research and Coordination Roles  
-- **Research Assistant** — *University of North Texas (Summer 2024 - Present)*
-- **Research Assistant** — *ICT Division, Government of Bangladesh (Jul 2019 - Jun 2020)*  
-- **Course Coordinator** — *European University of Bangladesh (Summer 2019 - Summer 2021)*  
+- **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
+- **Research Assistant** — *ICT Division, Government of Bangladesh, Dhaka (Jul 2019 - Jun 2020)*  
+- **Course Coordinator** — *European University of Bangladesh, Dhaka (Apr 2019 - Jul 2021)*  
 
 ---
 
@@ -90,7 +90,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 - Bangladesh Sweden Trust Fund (BSTF), Ministry of Finance (ERD), Government of Bangladesh — 2022  
 - Merit List Scholarship, East West University — 2015  
 - Dean’s List, East West University — 2015  
-- Medha Lanon Fund Scholarship — 2016  
+- Medha Lanon Fund Scholarship, East West University — 2016  
 
 ---
 
