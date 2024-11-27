@@ -7,6 +7,7 @@ redirect_from:
   - /about.html  
 
 ---
+
 ### Welcome to My Homepage!  
 
 I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html), with a strong passion for Machine Learning and Deep Learning. My research focuses on Deep Active Learning and Continual Learning, aimed at enhancing AI's adaptability and performance.  
@@ -102,7 +103,7 @@ Work experience
   * Duties included: Course planning, design, and development, as well as overseeing course delivery. Additionally, the role involves selecting suitable educational resources, assessing student progress, monitoring learning outcomes, assigning faculty members to specific courses, managing course registrations, and addressing any issues that may arise in relation to the course.
 
 * Jul 2019 - Jun 2020: Research Assistant
-  * ICT Division, Bangladesh
+  * ICT Division, Government of Bangladesh 
   * Duties included: Collaborated within a research group to successfully implement a project funded by the "ICT Innovation Fund" under the ICT division of the Bangladesh Government. The Innovation Fund supports projects with the potential to contribute to the ICT sector's socio-economic development, enhance public services, or create innovative solutions.
 
 * Summer 2017: Graduate Teaching Assistant
@@ -110,7 +111,7 @@ Work experience
   * Supervisor: [Dr. Md. Mozammel Huq Azad Khan](https://fse.ewubd.edu/computer-science-engineering/faculty-view/mhakhan)
   * Class: CSE 365: Artificial Intelligence, CSE 225: Numerical methods and, CSE 101: Introduction to Computers
 
-* Fall 2016 Spring 2017: Undergraduate Teaching Assistant
+* Fall 2016 - Spring 2017: Undergraduate Teaching Assistant
   * East West University
   * Supervisor: [Amit Kumar Das](https://fse.ewubd.edu/computer-science-engineering/faculty-view/akdas)
   * Class: CSE205: Discrete Mathematics and CSE413: Automata Theory and Theory of Computations
