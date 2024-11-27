@@ -114,7 +114,8 @@ Work experience
   * Supervisor: [Amit Kumar Das](https://fse.ewubd.edu/computer-science-engineering/faculty-view/akdas)
   * Class: CSE205: Discrete Mathematics and CSE413: Automata Theory and Theory of Computations
 
-  Awards
+
+Awards
 ======
 * Merit List Scholarship, East West University, 2015.
 * Dean’s List, East West University, 2015.
