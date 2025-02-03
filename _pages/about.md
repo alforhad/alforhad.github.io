@@ -14,8 +14,11 @@ I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineerin
 I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
 
 ## Research Interests  
+- **Artificial intelligence**
+- **Machine learning**
 - **Active Learning**  
-- **Continual Learning**  
+- **Continual Learning**
+- **Reinforcement learning**
 
 Let’s collaborate and innovate together to shape the future of AI!
 
@@ -52,12 +55,12 @@ Let’s collaborate and innovate together to shape the future of AI!
 4. **A SUMO-Based Simulation Framework for Intelligent Traffic Management System.**  
    *Shamim Akhter, Md. Nurul Ahsan, Shah Jafor Sadeek Quaderi, Md Abdullah Al Forhad, Sakhawat H Sumit, Md. Rahatur Rahman.*  
    *Journal of Traffic and Logistics Engineering, 2020.*  
-   [Read more](https://doi.org/10.18178/jtle.8.1.1-5)  
+   [Read more](https://www.semanticscholar.org/paper/A-SUMO-Based-Simulation-Framework-for-Intelligent-Akhter-Ahsan/e2a8914a802734762cc8a6c7f63e8e572cf79e14)  
 
 5. **Cloud IoT-Based Mobile Agent Framework for Real-Time Traffic Information Acquisition, Storage, and Retrieval.**  
    *Md Abdullah Al Forhad, Md Nadim, Md. Rahatur Rahman, Shamim Akhter.*  
    *Smart Devices, Applications, and Protocols for the IoT, 2019.*  
-   [Read more](https://doi.org/10.4018/978-1-5225-7811-6.ch002)  
+   [Read more](https://www.igi-global.com/gateway/chapter/225891)  
 
 
 ## Work Experience  
