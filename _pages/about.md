@@ -9,15 +9,18 @@ redirect_from:
 
 Welcome to My Homepage!  
 
-I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). My research focuses on **Deep Active Learning** and **Continual Learning**, with a passion for enhancing AI's adaptability and performance.
+I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html), advised by [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html). 
 
-I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to the field of Artificial Intelligence.
+My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
+
+I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
 
 ## Research Interests  
 - **Artificial intelligence**
 - **Machine learning**
 - **Active Learning**  
 - **Continual Learning**
+- **Multi-modal Learning**
 - **Reinforcement learning**
 
 Let’s collaborate and innovate together to shape the future of AI!
@@ -26,8 +29,9 @@ Let’s collaborate and innovate together to shape the future of AI!
 ## News  
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR). 
 - :pushpin: **[Aug 2024]** Two papers are accepted for publication.  
-- :pushpin: Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
-- :pushpin: Completed Ph.D. coursework and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].  
+- :pushpin: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.
+- :pushpin: [2023] Joined the Active Machine Learning (AML) Lab under the supervision of Dr. Weishi Shi.
+- :pushpin: [2023] Completed organized graduate coursework in CSE and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].  
 
 
 ## Education  
@@ -35,7 +39,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 - **M.S. in Computer Science** — University of North Texas, Denton, TX, 2023  
 - **B.S. in Computer Science and Engineering** — East West University, Dhaka, 2017  
 
-
+  
 ## Publications  
 1. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
    *Md Abdullah Al Forhad, Weishi Shi.*  
