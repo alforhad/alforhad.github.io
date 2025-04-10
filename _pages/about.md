@@ -61,7 +61,7 @@ Let’s collaborate and innovate together to shape the future of AI!
    *Journal of Traffic and Logistics Engineering, 2020.*  
    [Read more](https://www.semanticscholar.org/paper/A-SUMO-Based-Simulation-Framework-for-Intelligent-Akhter-Ahsan/e2a8914a802734762cc8a6c7f63e8e572cf79e14)  
 
-5. **Cloud IoT-Based Mobile Agent Framework for Real-Time Traffic Information Acquisition, Storage, and Retrieval.**  
+5. **Cloud IoT-Based Mobile Agent Framework for Real-Time Traffic Information Acquisition, Storage, and Retrieval**  
    *Md Abdullah Al Forhad, Md Nadim, Md. Rahatur Rahman, Shamim Akhter.*  
    *Smart Devices, Applications, and Protocols for the IoT, 2019.*  
    [Read more](https://www.igi-global.com/gateway/chapter/225891)  
