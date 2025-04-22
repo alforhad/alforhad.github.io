@@ -89,7 +89,7 @@ Let’s collaborate and innovate together to shape the future of AI!
 - Bangladesh Sweden Trust Fund (BSTF), Ministry of Finance (ERD), Government of Bangladesh — 2022  
 - Merit List Scholarship, East West University — 2015  
 - Dean’s List, East West University — 2015  
-- Medha Lanon Fund Scholarship, East West University. — 2016  
+- Medha Lanon Fund Scholarship, East West University — 2016  
 
 ---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=200"></script>
