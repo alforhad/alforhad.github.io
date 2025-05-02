@@ -21,7 +21,7 @@ repository               : "alforhad/alforhad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "pic.png"
   name             : "Md Abdullah Al Forhad"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
