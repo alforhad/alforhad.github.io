@@ -9,21 +9,16 @@ redirect_from:
 
 Welcome to My Homepage!  
 
-I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). I conduct research in the [Learning · Language · Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of [Dr. Weishi Shi](https://engineering.unt.edu/people/weishi-shi.html). 
+I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). I conduct research in the [Learning · Language · Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of [Dr. Weishi Shi](https://scholar.google.com/citations?user=nAPZIPsAAAAJ). 
 
 My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
 
 I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
 
 ## Research Interests  
-- **Artificial intelligence**
-- **Machine learning**
 - **Active Learning**  
 - **Continual Learning**
 - **Multi-modal Learning**
-- **Reinforcement learning**
-
-Let’s collaborate and innovate together to shape the future of AI!
 
 
 ## News  
@@ -39,32 +34,17 @@ Let’s collaborate and innovate together to shape the future of AI!
 - **M.S. in Computer Science** — University of North Texas, Denton, TX, 2023  
 - **B.S. in Computer Science and Engineering** — East West University, Dhaka, 2017  
 
-  
-## Publications  
-1. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
+
+## Publications (listed in chronological order)
+5. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
    *Md Abdullah Al Forhad, Weishi Shi.*  
    *International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.*  
    [Read more](https://doi.org/10.1109/MIPR62202.2024.00082)  
 
-2. **Multi-agent dual-level reinforcement learning of strategy and tactics in competitive games.**  
+4. **Multi-agent dual-level reinforcement learning of strategy and tactics in competitive games.**  
    *Chengping Yuan, Md Abdullah Al Forhad, Ranak Bansal, Anna Sidorova, Mark V. Albert.*  
    *Results in Control and Optimization, Journal, Volume 16, September 2024.*  
-   [Read more](https://doi.org/10.1016/j.rico.2024.100471)  
-
-3. **Design and Development of an ASP.NET-Based ITM Data Center to Support Open Data.**  
-   *Md. Rahatur Rahman, Md Abdullah Al Forhad, Salah U. Ahmed, Shamim Akhter.*  
-   *10th International Conference on Information Technology (ICIT), 2021.*  
-   [Read more](https://ieeexplore.ieee.org/document/9491756)  
-
-4. **A SUMO-Based Simulation Framework for Intelligent Traffic Management System.**  
-   *Shamim Akhter, Md. Nurul Ahsan, Shah Jafor Sadeek Quaderi, Md Abdullah Al Forhad, Sakhawat H Sumit, Md. Rahatur Rahman.*  
-   *Journal of Traffic and Logistics Engineering, 2020.*  
-   [Read more](https://www.semanticscholar.org/paper/A-SUMO-Based-Simulation-Framework-for-Intelligent-Akhter-Ahsan/e2a8914a802734762cc8a6c7f63e8e572cf79e14)  
-
-5. **Cloud IoT-Based Mobile Agent Framework for Real-Time Traffic Information Acquisition, Storage, and Retrieval**  
-   *Md Abdullah Al Forhad, Md Nadim, Md. Rahatur Rahman, Shamim Akhter.*  
-   *Smart Devices, Applications, and Protocols for the IoT, 2019.*  
-   [Read more](https://www.igi-global.com/gateway/chapter/225891)  
+   [Read more](https://doi.org/10.1016/j.rico.2024.100471)   
 
 
 ## Work Experience  
