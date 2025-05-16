@@ -31,7 +31,7 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 - **B.S. in Computer Science and Engineering** — East West University, Dhaka, 2017  
 
 
-## Publications (listed in chronological order)
+## Publications
 5. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
    *Md Abdullah Al Forhad, Weishi Shi.*  
    *International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.*  
