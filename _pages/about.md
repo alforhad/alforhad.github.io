@@ -15,13 +15,9 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 
 I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
 
-## Research Interests  
-- **Active Learning**  
-- **Continual Learning**
-- **Multi-modal Learning**
-
 
 ## News  
+- :pushpin: **May 2025** Selected for the 2025–2026 Scholarship by UNT International Affairs.
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR). 
 - :pushpin: **[Aug 2024]** Two papers are accepted for publication.  
 - :pushpin: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.
@@ -64,6 +60,7 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 
 
 ## Awards and Honors  
+- UNT International Affairs Scholarship — 2025
 - USC CENG Schol (GR) Scholarship — 2024  
 - Travel Award, UNT CSE Department and UNT College of Engineering — 2024  
 - Bangladesh Sweden Trust Fund (BSTF), Ministry of Finance (ERD), Government of Bangladesh — 2022  
