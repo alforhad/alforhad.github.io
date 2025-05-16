@@ -17,7 +17,7 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 
 
 ## News  
-- :pushpin: **May 2025** Selected for the 2025–2026 Scholarship by UNT International Affairs.
+- :pushpin: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs.
 - :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR). 
 - :pushpin: **[Aug 2024]** Two papers are accepted for publication.  
 - :pushpin: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.
