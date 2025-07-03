@@ -13,16 +13,16 @@ I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineerin
 
 My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
 
-I hold an M.S. in Computer Science from the [University of North Texas](https://engineering.unt.edu/cse/index.html) and a B.S. in Computer Science and Engineering from [East West University](https://www.ewubd.edu/), Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
+I hold an M.S. in Computer Science from the University of North Texas and a B.S. in Computer Science and Engineering from East West University, Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
 
 
 ## News  
-- :pushpin: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs.
-- :pushpin: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR). 
-- :pushpin: **[Aug 2024]** Two papers are accepted for publication.  
-- :pushpin: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.
-- :pushpin: [2023] Joined Lab under the supervision of Dr. Weishi Shi.
-- :pushpin: [2023] Completed organized graduate coursework in CSE and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].  
+- :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs.
+- :mortar_board: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR). 
+- :mega: **[Aug 2024]** Two papers are accepted for publication.  
+- :mortar_board: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.
+- :star: [2023] Joined Active Machine Learning (AML) Lab under the supervision of Dr. Weishi Shi.
+- :mortar_board: [2023] Completed organized graduate coursework in CSE and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].  
 
 
 ## Education  
@@ -34,24 +34,22 @@ I hold an M.S. in Computer Science from the [University of North Texas](https://
 ## Publications
 5. **Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply.**  
    *Md Abdullah Al Forhad, Weishi Shi.*  
-   *International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.*  
-   [Read more](https://doi.org/10.1109/MIPR62202.2024.00082)  
+   *International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.*
 
 4. **Multi-agent dual-level reinforcement learning of strategy and tactics in competitive games.**  
    *Chengping Yuan, Md Abdullah Al Forhad, Ranak Bansal, Anna Sidorova, Mark V. Albert.*  
-   *Results in Control and Optimization, Journal, Volume 16, September 2024.*  
-   [Read more](https://doi.org/10.1016/j.rico.2024.100471)   
+   *Results in Control and Optimization, Journal, Volume 16, September 2024.*   
 
 
 ## Work Experience  
 
 ### Teaching Experience  
-- **Teaching Assistant** — *[University of North Texas](https://engineering.unt.edu/cse/index.html) (Fall 2021 - Present)*  
-- **Senior Lecturer** — *[European University of Bangladesh](https://eub.edu.bd/) (Spring 2021 - Summer 2021)*  
+- **Teaching Assistant** — *University of North Texas (Fall 2021 - Present)*  
+- **Senior Lecturer** — *European University of Bangladesh (Spring 2021 - Summer 2021)*  
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Lecturer** — *[European University of Bangladesh](https://eub.edu.bd/) (Fall 2017 - Fall 2020)*  
+- **Lecturer** — *European University of Bangladesh (Fall 2017 - Fall 2020)*  
   - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Teaching Assistant** — *[East West University](https://www.ewubd.edu/), Dhaka (Summer 2016 - Summer 2017)*  
+- **Teaching Assistant** — *East West University, Dhaka (Summer 2016 - Summer 2017)*  
 
 ### Research and Coordination Roles  
 - **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
