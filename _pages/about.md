@@ -17,7 +17,7 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 
 ## News  
-- :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs.  
+- :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW).
 - :mortar_board: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).   
 - :mega: **[Aug 2024]** Two papers are accepted for publication.    
 - :mortar_board: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
