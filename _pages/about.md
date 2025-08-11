@@ -37,7 +37,7 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
    *International Conference on Multimedia Information Processing and Retrieval (MIPR), 2024.*
 
 4. **Multi-agent dual-level reinforcement learning of strategy and tactics in competitive games.**  
-   *Chengping Yuan, Md Abdullah Al Forhad, Ranak Bansal, Anna Sidorova, Mark V. Albert.*  
+   *Chengping Yuan<sup>1</sup>, Md Abdullah Al Forhad<sup>1</sup>, Ranak Bansal, Anna Sidorova, Mark V. Albert.*  
    *Results in Control and Optimization, Journal, Volume 16, September 2024.*   
 
 
