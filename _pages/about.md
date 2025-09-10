@@ -43,6 +43,7 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 - **Teaching Assistant** — *East West University, Dhaka (Summer 2016 - Summer 2017)*  
 
 ### Research and Coordination Roles  
+- **Mentor** — *Undergraduate Research to PhD (UR2PhD) program (Fall 2025 - Present)*
 - **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
 - **Research Assistant** — *ICT Division, Government of Bangladesh, Dhaka (Jul 2019 - Jun 2020)*  
 - **Course Coordinator** — *European University of Bangladesh, Dhaka (Apr 2019 - Jul 2021)*  
