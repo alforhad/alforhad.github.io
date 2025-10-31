@@ -17,11 +17,11 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 
 ## News  
-- :mega: **[Oct 2025]** One paper accepted for publication at [IEEE BigData 2025, Macau, China](https://bigdataieee.org/).    
+- :mega: **[Oct 2025]** One conference paper accepted for publication at [IEEE BigData 2025, Macau, China](https://bigdataieee.org/).    
 - :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
 - :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW).
 - :mortar_board: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).   
-- :mega: **[Aug 2024]** Two papers are accepted for publication.    
+- :mega: **[Aug 2024]** Two papers accepted for publication — one conference paper and one journal article.    
 - :mortar_board: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
 - :star: [2023] Joined Active Machine Learning (AML) Lab under the supervision of Dr. Weishi Shi.  
 - :mortar_board: [2023] Completed organized graduate coursework in CSE and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].    
