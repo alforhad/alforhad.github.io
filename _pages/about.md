@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to My Homepage!  
 
-I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). I conduct research in the [Learning · Language · Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of [Dr. Weishi Shi](https://scholar.google.com/citations?user=nAPZIPsAAAAJ). 
+I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the [University of North Texas](https://engineering.unt.edu/cse/index.html). I conduct research in the Active Machine Learning (AML) Lab and [Learning · Language · Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of [Dr. Weishi Shi](https://scholar.google.com/citations?user=nAPZIPsAAAAJ). 
 
 My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
 
@@ -17,8 +17,8 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 
 ## News  
-- :mega: **[Oct 2025]** One paper accepted for publication.    
-- :mortar_board: **[Sep 2025]** Mentoring two students in the Undergraduate Research to PhD (UR2PhD) program.
+- :mega: **[Oct 2025]** One paper accepted for publication at [IEEE BigData 2025, Macau, China](https://bigdataieee.org/).    
+- :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
 - :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW).
 - :mortar_board: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).   
 - :mega: **[Aug 2024]** Two papers are accepted for publication.    
