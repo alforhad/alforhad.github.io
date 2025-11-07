@@ -17,10 +17,12 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 
 ## News  
+- :mortar_board: **[Nov 2025]** Received International Travel Grant. 
 - :mega: **[Oct 2025]** One conference paper accepted for publication.    
 - :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
-- :mortar_board: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW).
-- :mortar_board: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).   
+- :star: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW).
+- :star: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).
+- :mortar_board: **[Aug 2024]** Received Travel Grant. 
 - :mega: **[Aug 2024]** Two papers accepted for publication — one conference paper and one journal article.    
 - :mortar_board: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
 - :star: [2023] Joined Active Machine Learning (AML) Lab under the supervision of Dr. Weishi Shi.  
@@ -51,6 +53,7 @@ I hold an M.S. in Computer Science from the University of North Texas and a B.S.
 
 
 ## Awards and Honors  
+- Travel Award, UNT CSE Department and UNT College of Engineering — 2025  
 - UNT International Affairs Scholarship — 2025
 - USC CENG Schol (GR) Scholarship — 2024  
 - Travel Award, UNT CSE Department and UNT College of Engineering — 2024  
