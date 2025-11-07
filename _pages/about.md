@@ -13,8 +13,6 @@ I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineerin
 
 My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
 
-I hold an M.S. in Computer Science from the University of North Texas and a B.S. in Computer Science and Engineering from East West University, Dhaka. With a deep commitment to innovation and collaboration, I aim to contribute meaningfully to Artificial Intelligence.
-
 
 ## News  
 - :mortar_board: **[Nov 2025]** Received International Travel Grant. 
