@@ -25,10 +25,6 @@ While Deep Active Learning (DAL) effectively reduces human annotation costs, its
   <a href="#" class="btn btn-paper">Read Full Paper</a>
 </div>
 
-<div class="conference-info">
-The IEEE International Conference on Big Data (Big Data) is a top-tier conference ranked by both CORE and CCF, with this year's acceptance rate: 18.7% (140/746)
-</div>
-
 If you find this work useful, please cite:
 
 <div class="citation-container">
@@ -46,3 +42,6 @@ If you find this work useful, please cite:
 }</code></pre>
 </div>
 
+<div class="conference-info">
+The IEEE International Conference on Big Data (Big Data) is a top-tier conference ranked by both CORE and CCF, with this year's acceptance rate: 18.7% (140/746)
+</div>
