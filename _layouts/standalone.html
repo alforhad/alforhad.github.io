@@ -73,11 +73,14 @@ layout: compress
         margin: 30px 0;
         padding: 20px;
         background: white;
+        flex-wrap: wrap;
       }
       
       .logo-container img {
         height: 90px;
         display: inline-block;
+        max-width: 100%;
+        object-fit: contain;
       }
       
       .abstract {
@@ -212,11 +215,27 @@ layout: compress
         
         .logo-container {
           flex-direction: row;
-          gap: 15px;
+          gap: 10px;
+          padding: 15px 10px;
+          margin: 20px 0;
         }
         
         .logo-container img {
-          height: 70px;
+          height: 60px;
+          max-width: 45%;
+          flex: 0 0 auto;
+        }
+        
+        @media (max-width: 480px) {
+          .logo-container {
+            gap: 8px;
+            padding: 10px 5px;
+          }
+          
+          .logo-container img {
+            height: 50px;
+            max-width: 48%;
+          }
         }
         
         .btn {
