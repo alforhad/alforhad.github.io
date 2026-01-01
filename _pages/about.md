@@ -16,7 +16,7 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 
 ## News  
 - :mortar_board: **[Nov 2025]** Received International Travel Grant. 
-- :mega: **[Oct 2025]** One conference paper accepted for publication.    
+- :mega: **[Oct 2025]** One conference paper accepted for publication. [[Paper](https://alforhad.github.io/deep-active-relabeling/)]    
 - :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
 - :star: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW). <a href="/images/internationalscholarship25.png" target="_blank">Reception celebrating scholarship awardees.</a>
 - :star: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).
