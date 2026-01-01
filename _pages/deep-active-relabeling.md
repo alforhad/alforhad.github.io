@@ -4,15 +4,15 @@ title: "Deep Active Relabeling"
 permalink: /deep-active-relabeling/
 ---
 
+<div class="logo-container">
+  <img src="/images/dal_images/untcse.png" alt="UNT CSE">
+  <img src="/images/dal_images/bigdt25.png" alt="BigDT 2025">
+</div>
+
 # Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency
 
 <div class="authors">
 **Authors:** Md Abdullah Al Forhad, Weishi Shi
-</div>
-
-<div class="logo-container">
-  <img src="/images/dal_images/untcse.png" alt="UNT CSE">
-  <img src="/images/dal_images/bigdt25.png" alt="BigDT 2025">
 </div>
 
 ## Abstract
@@ -23,6 +23,5 @@ While Deep Active Learning (DAL) effectively reduces human annotation costs, its
 
 <div class="button-container">
   <a href="#" class="btn btn-paper">Read Full Paper</a>
-  <a href="#" class="btn btn-demo">Demo</a>
 </div>
 
