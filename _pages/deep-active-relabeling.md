@@ -12,7 +12,7 @@ permalink: /deep-active-relabeling/
 # Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency
 
 <div class="authors">
-Md Abdullah Al Forhad, Weishi Shi
+<a href="/images/dal_images/CertificateofAttendance.pdf" target="_blank">Md Abdullah Al Forhad</a>, Weishi Shi
 </div>
 
 ## Abstract
