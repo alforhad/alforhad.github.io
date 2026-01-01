@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: standalone
 title: "Deep Active Relabeling"
 permalink: /deep-active-relabeling/
-author_profile: true
 ---
 
 # Deep Active Relabeling
