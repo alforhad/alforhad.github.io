@@ -25,3 +25,18 @@ While Deep Active Learning (DAL) effectively reduces human annotation costs, its
   <a href="#" class="btn btn-paper">Read Full Paper</a>
 </div>
 
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{forhad2025DAL,
+  title={Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency},
+  author={Al Forhad, Md Abdullah and Shi, Weishi},
+  booktitle={2025 IEEE International Conference on Big Data (Big Data)},
+  pages={886--895},
+  year={2025},
+  organization={IEEE}
+}
+```
+
