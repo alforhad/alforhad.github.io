@@ -6,13 +6,13 @@ permalink: /deep-active-relabeling/
 
 <div class="logo-container">
   <img src="/images/dal_images/untcse.png" alt="UNT CSE">
-  <img src="/images/dal_images/bigdt25.png" alt="BigDT 2025">
+  <img src="/images/dal_images/BigData2025.jpg" alt="BigDT 2025">
 </div>
 
 # Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency
 
 <div class="authors">
-**Authors:** Md Abdullah Al Forhad, Weishi Shi
+Md Abdullah Al Forhad, Weishi Shi
 </div>
 
 ## Abstract
