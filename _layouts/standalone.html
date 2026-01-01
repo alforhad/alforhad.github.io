@@ -133,6 +133,38 @@ layout: compress
         text-decoration: none;
       }
       
+      .citation-container {
+        position: relative;
+        margin: 20px 0;
+      }
+      
+      .copy-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: #667eea;
+        color: white;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 0.85em;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        z-index: 10;
+      }
+      
+      .copy-btn:hover {
+        background: #5568d3;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      }
+      
+      .copy-btn:active {
+        transform: translateY(0);
+      }
+      
       pre {
         background: #f8f9fa;
         border: 1px solid #e1e4e8;
@@ -142,8 +174,9 @@ layout: compress
         font-family: 'Courier New', Courier, monospace;
         font-size: 0.9em;
         line-height: 1.6;
-        margin: 20px 0;
+        margin: 0;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        position: relative;
       }
       
       code {
@@ -193,6 +226,37 @@ layout: compress
       {{ content }}
     </div>
     {% include scripts.html %}
+    <script>
+      function copyCitation() {
+        const citationText = `@inproceedings{forhad2025DAL,
+  title={Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency},
+  author={Al Forhad, Md Abdullah and Shi, Weishi},
+  booktitle={2025 IEEE International Conference on Big Data (Big Data)},
+  pages={886--895},
+  year={2025},
+  organization={IEEE}
+}`;
+        
+        navigator.clipboard.writeText(citationText).then(function() {
+          const copyBtn = document.getElementById('copyBtn');
+          const copyText = document.getElementById('copyText');
+          const copiedText = document.getElementById('copiedText');
+          
+          copyText.style.display = 'none';
+          copiedText.style.display = 'inline';
+          copyBtn.style.background = '#28a745';
+          
+          setTimeout(function() {
+            copyText.style.display = 'inline';
+            copiedText.style.display = 'none';
+            copyBtn.style.background = '#667eea';
+          }, 2000);
+        }).catch(function(err) {
+          console.error('Failed to copy: ', err);
+          alert('Failed to copy citation. Please select and copy manually.');
+        });
+      }
+    </script>
   </body>
 </html>
 
