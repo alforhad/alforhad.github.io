@@ -43,5 +43,7 @@ If you find this work useful, please cite:
 </div>
 
 <div class="conference-info">
-The IEEE International Conference on Big Data (Big Data) is a top-tier conference ranked by both CORE and CCF, with this year's acceptance rate: 18.7% (140/746)
+  The <a href="https://ieeexplore.ieee.org/xpl/conhome/1802964/all-proceedings" target="_blank" rel="noopener noreferrer">
+  IEEE International Conference on Big Data (Big Data)
+  </a> is a top-tier conference ranked by both CORE and CCF, with this year's acceptance rate: 18.7% (140/746)
 </div>
