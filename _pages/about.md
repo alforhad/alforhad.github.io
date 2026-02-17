@@ -17,7 +17,7 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 ## News  
 - :mortar_board: **[Jan 2026]** Awarded $1435 CENG award (Scholarship). 
 - :mortar_board: **[Nov 2025]** Received Travel Grant. 
-- :mega: **[Oct 2025]** One conference paper accepted at IEEE BigData, Macau SAR, China 2025. [[Paper](https://alforhad.github.io/deep-active-relabeling/)]    
+- :mega: **[Oct 2025]** One conference paper accepted.   
 - :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
 - :star: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW). <a href="/images/internationalscholarship25.png" target="_blank">Reception celebrating scholarship awardees.</a>
 - :star: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).
@@ -33,39 +33,6 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 - **M.S. in Computer Science** — University of North Texas, Denton, TX, USA
   - GPA: 4.00
   - Rank: 1 of 1391       
-- **B.S. in Computer Science and Engineering** — East West University, Dhaka, Bangladesh.
-  - Merit List Scholarship
-  - Dean’s List
-
-
-## Work Experience  
-- **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
-
-### Teaching Experience  
-- **Teaching Assistant** — *University of North Texas (Fall 2021 - Present)*  
-- **Senior Lecturer** — *European University of Bangladesh (Spring 2021 - Summer 2021)*  
-  - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Lecturer** — *European University of Bangladesh (Fall 2017 - Fall 2020)*  
-  - [Courses Taught](https://docs.google.com/document/d/e/2PACX-1vRrPPEMo_OELYKWp0gouZoYGn0t3fiZ-v0aBMVdECjuK0apZV0mJXzSEqHlGVFTbQ/pub)  
-- **Teaching Assistant** — *East West University, Dhaka (Summer 2016 - Summer 2017)*  
-
-### Research and Coordination Roles  
-- **Mentor** — *Undergraduate Research to PhD (UR2PhD) program (Fall 2025 )*
-- **Research Assistant** — *University of North Texas, Denton, TX (Summer 2024 - Present)*
-- **Research Assistant** — *ICT Division, Government of Bangladesh, Dhaka (Jul 2019 - Jun 2020)*  
-- **Course Coordinator** — *European University of Bangladesh, Dhaka (Apr 2019 - Jul 2021)*  
-
-
-## Awards and Honors  
-- UNT College of Engineering award — 2026
-- Travel Award, UNT CSE Department and UNT College of Engineering — 2025  
-- UNT International Affairs Scholarship — 2025
-- USC CENG Schol (GR) Scholarship — 2024  
-- Travel Award, UNT CSE Department and UNT College of Engineering — 2024  
-- Bangladesh Sweden Trust Fund (BSTF), Ministry of Finance (ERD), Government of Bangladesh — 2022  
-- Merit List Scholarship, East West University — 2015  
-- Dean’s List, East West University — 2015  
-- Medha Lanon Fund Scholarship, East West University — 2016  
 
 ---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=200"></script>
