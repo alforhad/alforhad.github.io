@@ -34,11 +34,12 @@ If you find this work useful, please cite:
   </button>
   <pre id="citationCode"><code>@inproceedings{forhad2025DAL,
   title={Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency},
-  author={Al Forhad, Md Abdullah and Shi, Weishi},
-  booktitle={2025 IEEE International Conference on Big Data (Big Data)},
+  author={Forhad, Md Abdullah Al and Shi, Weishi},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
   pages={886--895},
   year={2025},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.1109/BigData66926.2025.11402126}
 }</code></pre>
 </div>
 
