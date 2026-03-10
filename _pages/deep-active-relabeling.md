@@ -22,7 +22,7 @@ While Deep Active Learning (DAL) effectively reduces human annotation costs, its
 </div>
 
 <div class="button-container">
-  <a href="#" class="btn btn-paper">Read Full Paper</a>
+  <a href="https://ieeexplore.ieee.org/document/11402126" class="btn btn-paper">Read Full Paper</a>
 </div>
 
 If you find this work useful, please cite:
