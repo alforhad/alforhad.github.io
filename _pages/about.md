@@ -16,7 +16,7 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 
 ## News
 - :mortar_board: **[May 2026]** Passed Ph.D. dissertation proposal.
-- :fire::fire::fire: **[April 2026]** First-authored paper on multi-modal continual learning accepted at ICML 2026.
+- :fire::fire::fire: **[April 2026]** First-authored [paper](https://alforhad.github.io/MoEConfidence/) on multi-modal continual learning accepted at ICML 2026.
 - :mortar_board: **[Jan 2026]** Awarded $1435 CENG award (Scholarship). 
 - :mortar_board: **[Nov 2025]** Awarded a travel grant by the CSE Department and the College of Engineering, UNT.
 - :star: **[Oct 2025]** First-authored [paper](https://alforhad.github.io/deep-active-relabeling/) on active learning accepted at IEEE BigData 2025, Macau SAR, China.  
