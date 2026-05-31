@@ -10,17 +10,7 @@ permalink: /deep-active-relabeling/
 </div>
 
 <p class="presentation-session">
-  <strong>Presentation session</strong>
-  <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
-  <span class="presentation-session-item">
-    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-    10 December, 2025 09:00 – 17:30 (UTC +8)
-  </span>
-  <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
-  <span class="presentation-session-item">
-    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-    <a href="https://maps.app.goo.gl/95xohoHYnhJRTsWn8" target="_blank" rel="noopener noreferrer">Galaxy Macau Cotai Macau, Macau SAR, China</a>
-  </span>
+  <strong>Presentation:</strong> Wed, Dec 10, 2025 • 09:00 – 17:30 (UTC +8)
 </p>
 
 # Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency
