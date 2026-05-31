@@ -14,7 +14,7 @@ permalink: /deep-active-relabeling/
   <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
   <span class="presentation-session-item">
     <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-    December 10th, Wednesday 09:00 – 17:30 (UTC +8)
+    10 December, 2025 09:00 – 17:30 (UTC +8)
   </span>
   <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
   <span class="presentation-session-item">
