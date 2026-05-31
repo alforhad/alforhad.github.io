@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mixing Expertise with Confidence - ICML 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFFFF;
+            --ink: #0F172A;
+            --accent: #1E3A5F;
+            --soft-accent: #2C5282;
+            --border: #E2E8F0;
+            --muted: #64748B;
+            --code-bg: #F8FAFC;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Crimson Pro', serif;
+            background: var(--cream);
+            color: var(--ink);
+            line-height: 1.7;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Header */
+        header {
+            padding: 3rem 0 2rem;
+            border-bottom: 2px solid var(--border);
+            position: relative;
+            opacity: 0;
+            animation: fadeInDown 0.8s ease forwards;
+        }
+
+        .icml-logo {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .icml-logo img {
+            height: 50px;
+            opacity: 0;
+            animation: fadeIn 0.6s ease 0.3s forwards;
+        }
+
+        .conference-badge {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.75rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            padding: 0.4rem 1rem;
+            background: var(--ink);
+            color: var(--cream);
+            border-radius: 20px;
+            opacity: 0;
+            animation: fadeIn 0.6s ease 0.5s forwards;
+        }
+
+        .poster-session {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.85rem;
+            line-height: 1.6;
+            color: var(--muted);
+            margin-bottom: 1.25rem;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease 0.35s forwards;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.5rem 1rem;
+        }
+
+        .poster-session-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .poster-session-item svg {
+            width: 14px;
+            height: 14px;
+            flex-shrink: 0;
+            color: var(--accent);
+        }
+
+        .poster-session-sep {
+            color: var(--border);
+            user-select: none;
+        }
+
+        .poster-session strong {
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        .poster-session a {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px solid var(--border);
+            transition: color 0.2s ease, border-color 0.2s ease;
+        }
+
+        .poster-session a:hover {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 600;
+            line-height: 1.2;
+            margin-bottom: 2rem;
+            letter-spacing: -0.02em;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease 0.4s forwards;
+        }
+
+        .authors {
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease 0.6s forwards;
+        }
+
+        .author {
+            display: inline;
+            color: var(--ink);
+            transition: color 0.3s ease;
+        }
+
+        a.author {
+            text-decoration: none;
+        }
+
+        .author:hover {
+            color: var(--accent);
+        }
+
+        .author::after {
+            content: ", ";
+        }
+
+        .author:last-child::after {
+            content: "";
+        }
+
+        .affil-mark {
+            font-size: 0.75em;
+            vertical-align: super;
+            line-height: 0;
+            font-weight: 600;
+            color: var(--accent);
+        }
+
+        .affiliations {
+            font-size: 1.05rem;
+            color: var(--muted);
+            margin-top: -1.25rem;
+            margin-bottom: 2rem;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease 0.7s forwards;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.75rem 1.25rem;
+        }
+
+        .affil-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.65rem;
+        }
+
+        .affil-logo {
+            height: 34px;
+            width: auto;
+            max-width: 140px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .affil-logo.rit-logo {
+            height: 28px;
+            max-width: 180px;
+        }
+
+        .affiliations .affil-sep {
+            color: var(--border);
+            user-select: none;
+        }
+
+        .affiliations .affil-mark {
+            margin-right: 0.15rem;
+        }
+
+        /* Links Section */
+        .links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease 0.8s forwards;
+        }
+
+        .link-btn {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.85rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--ink);
+            color: var(--cream);
+            text-decoration: none;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            letter-spacing: 0.03em;
+        }
+
+        .link-btn:hover {
+            background: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(30, 58, 95, 0.25);
+        }
+
+        .link-btn svg,
+        .link-btn img {
+            width: 16px;
+            height: 16px;
+            object-fit: contain;
+        }
+
+        /* Main Content */
+        main {
+            padding: 4rem 0;
+        }
+
+        section {
+            margin-bottom: 4rem;
+            opacity: 0;
+            animation: fadeInUp 1s ease forwards;
+        }
+
+        section:nth-child(1) { animation-delay: 1s; }
+        section:nth-child(2) { animation-delay: 1.2s; }
+        section:nth-child(3) { animation-delay: 1.4s; }
+        section:nth-child(4) { animation-delay: 1.6s; }
+
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.01em;
+            text-transform: uppercase;
+            font-family: 'DM Mono', monospace;
+            font-size: 0.9rem;
+            color: var(--accent);
+        }
+
+        .summary-tabs {
+            display: flex;
+            gap: 0;
+            margin-bottom: 0;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .summary-tab {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.9rem;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            padding: 0.75rem 1.5rem;
+            background: none;
+            border: none;
+            border-bottom: 3px solid transparent;
+            margin-bottom: -2px;
+            color: var(--muted);
+            cursor: pointer;
+            transition: color 0.2s ease, border-color 0.2s ease;
+        }
+
+        .summary-tab:hover {
+            color: var(--accent);
+        }
+
+        .summary-tab.active {
+            color: var(--accent);
+            border-bottom-color: var(--accent);
+        }
+
+        .summary-panel {
+            display: none;
+        }
+
+        .summary-panel.active {
+            display: block;
+        }
+
+        .abstract-content {
+            font-size: 1.15rem;
+            line-height: 1.8;
+            text-align: justify;
+            padding: 2rem;
+            background: var(--code-bg);
+            border-left: 4px solid var(--accent);
+            box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+        }
+
+        .abstract-content p + p {
+            margin-top: 1.25rem;
+        }
+
+        /* Figure Section */
+        .figure-section {
+            background: var(--cream);
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 12px rgba(15, 23, 42, 0.06);
+            border: 1px solid var(--border);
+        }
+
+        .figure-container {
+            width: 100%;
+            margin: 2rem 0;
+            background: var(--code-bg);
+            padding: 2rem;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 400px;
+        }
+
+        .figure-placeholder {
+            width: 100%;
+            text-align: center;
+            color: var(--muted);
+            font-family: 'DM Mono', monospace;
+            font-size: 0.9rem;
+        }
+
+        .figure-container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .figure-caption {
+            margin-top: 1rem;
+            font-size: 1rem;
+            line-height: 1.6;
+            color: var(--muted);
+            text-align: center;
+            font-style: italic;
+        }
+
+        .figure-caption .caption-green {
+            color: #1B5E3B;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+        .figure-caption .caption-purple {
+            color: #4A3F6B;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+        /* Citation Section */
+        .citation-section {
+            background: var(--ink);
+            color: var(--cream);
+            padding: 2rem;
+            border-radius: 8px;
+            position: relative;
+        }
+
+        .citation-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .citation-header h2 {
+            color: var(--cream);
+            margin-bottom: 0;
+        }
+
+        .copy-btn {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.8rem;
+            padding: 0.5rem 1rem;
+            background: var(--accent);
+            color: var(--cream);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            letter-spacing: 0.03em;
+        }
+
+        .copy-btn:hover {
+            background: var(--soft-accent);
+            transform: translateY(-1px);
+        }
+
+        .copy-btn.copied {
+            background: #2D6A4F;
+        }
+
+        .citation-text {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.9rem;
+            line-height: 1.8;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        /* Footer */
+        footer {
+            padding: 3rem 0;
+            text-align: center;
+            border-top: 2px solid var(--border);
+            font-family: 'DM Mono', monospace;
+            font-size: 0.85rem;
+            color: var(--muted);
+        }
+
+        footer a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .authors {
+                font-size: 1.1rem;
+            }
+
+            .container {
+                padding: 0 1.5rem;
+            }
+
+            .abstract-content {
+                padding: 1.5rem;
+                font-size: 1.05rem;
+            }
+
+            .summary-tab {
+                padding: 0.65rem 1rem;
+                font-size: 0.8rem;
+            }
+
+            .affil-logo {
+                height: 28px;
+                max-width: 110px;
+            }
+
+            .affil-logo.rit-logo {
+                height: 24px;
+                max-width: 140px;
+            }
+
+            .figure-container {
+                padding: 1rem;
+                min-height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="icml-logo">
+                <img src="https://icml.cc/static/core/img/ICML-logo.svg" alt="ICML Logo">
+                <span class="conference-badge">ICML 2026</span>
+            </div>
+
+            <p class="poster-session">
+                <strong>Poster Session:</strong>
+                <span class="poster-session-item">
+                    <svg fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM1 4v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4H1z"/>
+                    </svg>
+                    Thu, Jul 9, 2026 &bull; 2:30 PM – 4:15 PM KST
+                </span>
+                <span class="poster-session-sep" aria-hidden="true">&bull;</span>
+                <span class="poster-session-item">
+                    <svg fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                    </svg>
+                    <a href="https://maps.app.goo.gl/6HfxP7gnof84b9CPA" target="_blank" rel="noopener noreferrer">Coex: HALL A, Seoul, South Korea</a>
+                </span>
+            </p>
+
+            <h1>Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning</h1>
+            
+            <div class="authors">
+                <span class="author">Md Abdullah Al Forhad<sup class="affil-mark">1</sup></span>
+                <span class="author">Yuansheng Zhu<sup class="affil-mark">2</sup></span>
+                <span class="author">Abhinab Acharya<sup class="affil-mark">2</sup></span>
+                <a href="https://www.rit.edu/mining/xumin-liu" class="author" target="_blank" rel="noopener noreferrer">Xumin Liu<sup class="affil-mark">2</sup></a>
+                <a href="https://www.rit.edu/mining/qi-yu" class="author" target="_blank" rel="noopener noreferrer">Qi Yu<sup class="affil-mark">2</sup></a>
+                <a href="https://engineering.unt.edu/people/weishi-shi.html" class="author" target="_blank" rel="noopener noreferrer">Weishi Shi<sup class="affil-mark">1</sup></a>
+            </div>
+            <div class="affiliations">
+                <div class="affil-item">
+                    <img src="unt.svg" alt="University of North Texas logo" class="affil-logo">
+                    <span><sup class="affil-mark">1</sup>University of North Texas</span>
+                </div>
+                <span class="affil-sep" aria-hidden="true">|</span>
+                <div class="affil-item">
+                    <img src="rit.svg" alt="Rochester Institute of Technology logo" class="affil-logo rit-logo">
+                    <span><sup class="affil-mark">2</sup>Rochester Institute of Technology</span>
+                </div>
+            </div>
+
+            <div class="links">
+                <a href="https://openreview.net/pdf?id=ZPJbTXMYft" class="link-btn" target="_blank" rel="noopener noreferrer">
+                    <svg fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l1.793-1.793a4.014 4.014 0 0 0-.128-1.687z"/>
+                        <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-1.793 1.792a4.014 4.014 0 0 0 .128 1.687l1.544-1.544a2 2 0 0 1 .861-3.337l.154-.199A1 1 0 0 0 8.586 4.672z"/>
+                    </svg>
+                    OpenReview
+                </a>
+                <a href="https://icml.cc/virtual/2026/poster/63173" class="link-btn" target="_blank" rel="noopener noreferrer">
+                    <img src="icml_icon.svg" alt="" aria-hidden="true">
+                    ICML
+                </a>
+                <a href="https://github.com/alforhad/MoE-Confidence" class="link-btn" target="_blank" rel="noopener noreferrer">
+                    <svg fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                    </svg>
+                    GitHub
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <section id="summary">
+                <div class="summary-tabs" role="tablist" aria-label="Paper summary">
+                    <button type="button" class="summary-tab active" role="tab" id="abstract-tab" aria-selected="true" aria-controls="abstract-panel">Abstract</button>
+                    <button type="button" class="summary-tab" role="tab" id="lay-summary-tab" aria-selected="false" aria-controls="lay-summary-panel">Lay Summary</button>
+                </div>
+                <div id="abstract-panel" class="summary-panel abstract-content active" role="tabpanel" aria-labelledby="abstract-tab">
+                    The Mixture of Experts (MoE) framework is widely used in continual learning to mitigate catastrophic forgetting. MoEs typically combine a small inter-task shared parameter space with largely independent expert parameters. However, as the number of tasks increases, the shared space becomes a bottleneck, reintroducing forgetting, while fully independent experts require explicit task ID predictors (e.g., routers), adding complexity. In this work, we eliminate the inter-task shared parameter space and the need for a task ID predictor by enabling expert communication and allowing knowledge to be shared dynamically, akin to human collaboration. We bridge the inter-expert knowledge sharing by leveraging the open-set learning capabilities of a multimodal foundation model (e.g., CLIP), thereby providing “expert priors” that bolster each expert’s task-specific representations. Guided by these priors, experts learn calibrated inter-task posteriors. Additionally, multivariate Gaussians over the learned posteriors promote complementary specialization among experts. We propose new evaluation benchmarks that simulate realistic continual learning scenarios, and our prior-conditioned strategy consistently outperforms existing methods across diverse settings without relying on reference datasets or replay memory.
+                </div>
+                <div id="lay-summary-panel" class="summary-panel abstract-content" role="tabpanel" aria-labelledby="lay-summary-tab" hidden>
+                    <p>Artificial intelligence (A.I.) systems, like humans, need to learn new tasks over time. However, when learning something new, they often forget previously learned knowledge, a problem known as catastrophic forgetting. One promising solution is the Mixture of Experts (MoE) approach, where several smaller A.I. models (“experts”) work together, and only a few are activated for a given task. Yet, because the same experts continue learning multiple tasks over time, they can still forget earlier knowledge and become overly confident when encountering data that resembles previous tasks, relying too much on shared patterns instead of the most relevant features of the current data.</p>
+                    <p>To address this, we propose an expanding expert framework that continuously adds new experts over time. This avoids retraining old experts or requiring a task identifier, helping prevent forgetting. Yet, experts who learn independently can become overconfident due to limited communication. We introduce confidence-based communication between experts to help them recognize familiar patterns and learn more cautiously. During prediction, experts can rely on their own predictions or defer to more confident experts. We also use a weighting mechanism to identify the best expert for each image. Across several continual learning benchmarks, our approach improves robustness without storing old data, using extra datasets, or requiring a separate expert selector.</p>
+                </div>
+            </section>
+
+            <section id="overview">
+                <h2>Method Overview</h2>
+                <div class="figure-section">
+                    <div class="figure-container">
+                        <img src="icmloverview.gif" alt="Method overview: MoE confidence framework">
+                    </div>
+                    <p class="figure-caption">
+                        <strong>Figure 1:</strong> (a) CLIP confidently predicts the correct class “cat” when the true label is present, but makes a high-confidence mistake (open-set error) when the “cat” label is absent. (b) training: open-set errors from previous experts filter semantically similar samples (Equation 3), and selective scaling (shown as <strong><span class="caption-green">darker green</span></strong>) calibrates the current expert (Equation 4). The expert also learns a multivariate Gaussian from the vision embeddings (Equation 7). (c) expert architecture as adapters that support residual updates by caching frozen activations, enabling adapter updates without full backbone recomputation in order to enable efficient inference. (d) inference: MD offers sample-specific guidance (<strong><span class="caption-purple">darker purple</span></strong> denotes weight) (Equation 8).
+                    </p>
+                </div>
+            </section>
+
+            <section id="citation">
+                <div class="citation-section">
+                    <div class="citation-header">
+                        <h2>Citation</h2>
+                        <button class="copy-btn" onclick="copyCitation()">Copy BibTeX</button>
+                    </div>
+                    <div class="citation-text">@inproceedings{forhad2026mixing,
+  title={Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning},
+  author={Al Forhad, Md Abdullah and Zhu, Yuansheng and Acharya, Abhinab and Liu, Xumin and Yu, Qi and Shi, Weishi},
+  booktitle={Forty-Third International Conference on Machine Learning},
+  year={2026},
+  organization={PMLR}
+}</div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            Licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener noreferrer">Apache-2.0</a> · MoE-Confidence · ICML 2026 Project Page
+        </div>
+    </footer>
+
+    <script>
+        function copyCitation() {
+            const citationText = document.querySelector('.citation-text').textContent;
+            navigator.clipboard.writeText(citationText).then(() => {
+                const btn = document.querySelector('.copy-btn');
+                const originalText = btn.textContent;
+                btn.textContent = 'Copied!';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+
+        // Summary tabs
+        document.querySelectorAll('.summary-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const panelId = tab.getAttribute('aria-controls');
+                document.querySelectorAll('.summary-tab').forEach(t => {
+                    t.classList.remove('active');
+                    t.setAttribute('aria-selected', 'false');
+                });
+                document.querySelectorAll('.summary-panel').forEach(p => {
+                    p.classList.remove('active');
+                    p.hidden = true;
+                });
+                tab.classList.add('active');
+                tab.setAttribute('aria-selected', 'true');
+                const panel = document.getElementById(panelId);
+                panel.classList.add('active');
+                panel.hidden = false;
+            });
+        });
+
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
