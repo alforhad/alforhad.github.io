@@ -9,6 +9,20 @@ permalink: /deep-active-relabeling/
   <img src="/images/dal_images/BigData2025.jpg" alt="BigDT 2025">
 </div>
 
+<p class="presentation-session">
+  <strong>Presentation session</strong>
+  <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
+  <span class="presentation-session-item">
+    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+    December 10th, Wednesday 09:00 – 17:30 (UTC +8)
+  </span>
+  <span class="presentation-session-sep" aria-hidden="true">&bull;</span>
+  <span class="presentation-session-item">
+    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+    <a href="https://maps.app.goo.gl/95xohoHYnhJRTsWn8" target="_blank" rel="noopener noreferrer">Galaxy Macau Cotai Macau, Macau SAR, China</a>
+  </span>
+</p>
+
 # Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency
 
 <div class="authors">
