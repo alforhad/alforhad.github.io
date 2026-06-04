@@ -37,6 +37,4 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
   - GPA: 4.00
   - Rank: 1 of 1391       
 
----
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C_VEybtjeJcFT_y4U7SIlbpNHCxICGN4V7J3xkyIwMM&cl=ffffff&w=200"></script>
----
+
