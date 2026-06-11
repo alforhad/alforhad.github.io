@@ -150,6 +150,9 @@ analytics:
   google:
     tracking_id          : "G-RERTJM73D8"
 
+cloudflare:
+  token                  : "83efa7b7a86a4b3982bffd9c8a2f5317"
+
 
 # Reading Files
 include:
