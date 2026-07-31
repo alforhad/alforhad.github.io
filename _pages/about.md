@@ -16,6 +16,7 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 Google Scholar: [https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ](https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ)
 
 ## News
+- :mortar_board: **[July 2026]** Awarded Graduate Student Travel Award by Toulouse Graduate School (TGS), UNT.
 - :mega: **[Jun 2026]** Abstract has been selected for the [fourth annual University Research Day Poster Session!](https://research.unt.edu/resources/research-events/research-day-2026/index.html) 
 - :mortar_board: **[May 2026]** Passed Ph.D. dissertation proposal.
 - :fire::fire::fire: **[April 2026]** First-authored [paper](https://alforhad.github.io/MoEConfidence/) on multi-modal continual learning accepted at **ICML** 2026, Seoul, South Korea.
