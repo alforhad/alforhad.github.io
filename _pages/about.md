@@ -16,6 +16,7 @@ My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**
 Google Scholar: [https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ](https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ)
 
 ## News
+- :mortar_board: **[August 2026]** Awarded the International Travel Grant administered by International Affairs, UNT.
 - :mortar_board: **[July 2026]** Awarded Graduate Student Travel Award by Toulouse Graduate School (TGS), UNT.
 - :mega: **[Jun 2026]** Abstract has been selected for the [fourth annual University Research Day Poster Session!](https://research.unt.edu/resources/research-events/research-day-2026/index.html) 
 - :mortar_board: **[May 2026]** Passed Ph.D. dissertation proposal.
@@ -24,7 +25,7 @@ Google Scholar: [https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ](h
 - :mortar_board: **[Nov 2025]** Awarded a travel grant by the CSE Department and the College of Engineering, UNT.
 - :star: **[Oct 2025]** First-authored [paper](https://alforhad.github.io/deep-active-relabeling/) on active learning accepted at IEEE BigData 2025, Macau SAR, China.  
 - :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
-- :fire: **[May 2025]** Selected for the 2025–2026 Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW). <a href="/images/internationalscholarship25.png" target="_blank">Reception celebrating scholarship awardees.</a>
+- :fire: **[May 2025]** Selected for the 2025–2026 International Education Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW). <a href="/images/internationalscholarship25.png" target="_blank">Reception celebrating scholarship awardees.</a>
 - :star: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).
 - :mortar_board: **[Aug 2024]** Awarded a travel grant by the CSE Department and the College of Engineering, UNT.
 - :mega: **[Aug 2024]** First-authored paper on active continual learning accepted at IEEE MIPR 2024,  San Jose, CA, USA.
