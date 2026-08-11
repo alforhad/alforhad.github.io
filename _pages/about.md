@@ -13,7 +13,7 @@ I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineerin
 
 My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
 
-Google Scholar: [https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ](https://scholar.google.com/citations?hl=en&user=AljTQdQAAAAJ)
+View my citations and research metrics on the official <a href="https://scholar.google.com/citations?user=AljTQdQAAAAJ&hl=en" rel="me">Md Abdullah Al Forhad Google Scholar Profile</a>.
 
 ## News
 - :mortar_board: **[August 2026]** Awarded the International Travel Grant administered by International Affairs, UNT.
