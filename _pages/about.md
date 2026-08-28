@@ -17,6 +17,7 @@ View my citations and research metrics on the official <a href="https://scholar.
 
 ## News
 - :mortar_board: **[August 2026]** Awarded the International Travel Grant administered by International Affairs, UNT.
+- :mega: **[July 2026]** Research highlighted by [UNT CSE](https://www.linkedin.com/feed/update/urn:li:share:7488599126129958912/) on social media for presenting at **ICML** 2026, Seoul.
 - :mortar_board: **[July 2026]** Awarded Graduate Student Travel Award by Toulouse Graduate School (TGS), UNT.
 - :mega: **[Jun 2026]** Abstract has been selected for the [fourth annual University Research Day Poster Session!](https://research.unt.edu/resources/research-events/research-day-2026/index.html) 
 - :mortar_board: **[May 2026]** Passed Ph.D. dissertation proposal.
