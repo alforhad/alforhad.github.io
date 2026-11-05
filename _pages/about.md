@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: ""
+subtitle: >-
+  <strong>Ph.D. Candidate</strong> <img src="/assets/img/unt-cse.png" alt="University of North Texas College of Engineering, Department of Computer Science and Engineering" width="175" style="vertical-align: middle; margin-left: 0.55rem;">
 
 profile:
   align: right
@@ -24,11 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-<p style="margin-top: -0.9rem;">
-  <strong>Ph.D. Candidate</strong>
-  <img src="/assets/img/unt-cse.png" alt="University of North Texas College of Engineering, Department of Computer Science and Engineering" width="175" style="vertical-align: middle; margin-left: 0.55rem;">
-</p>
 
 I am a Ph.D. candidate in Computer Science and Engineering at the University of North Texas. I conduct research in the <span style="color: var(--global-theme-color, #9c3c92);">Active Machine Learning (AML) Lab</span> and the [Learning, Language, Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of Dr. Weishi Shi. I completed my Master's degree in Computer Science from the Department of Computer Science and Engineering at the University of North Texas with a 4.00 GPA.
 
