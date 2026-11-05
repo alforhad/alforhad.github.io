@@ -1,58 +1,69 @@
 ---
+layout: about
+title: about
 permalink: /
-title: ""  
-author_profile: true  
-redirect_from:  
-  - /about/  
-  - /about.html 
+nav: false
+subtitle: ""
+
+profile:
+  align: right
+  image: forhad-profile.png
+  image_circular: true
+  more_info: ""
+
+selected_papers: false
+social: true
+
+announcements:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 6 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to My Homepage!  
+<p style="margin-top: -0.9rem;">
+  <strong>Ph.D. Candidate</strong>
+  <img src="/assets/img/unt-cse.png" alt="University of North Texas College of Engineering, Department of Computer Science and Engineering" width="175" style="vertical-align: middle; margin-left: 0.55rem;">
+</p>
 
-I am Md Abdullah Al Forhad, a Ph.D. candidate in Computer Science and Engineering at the University of North Texas. I conduct research in the Active Machine Learning (AML) Lab and [Learning · Language · Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of Dr. Weishi Shi. 
+I am a Ph.D. candidate in Computer Science and Engineering at the University of North Texas. I conduct research in the <span style="color: var(--global-theme-color, #9c3c92);">Active Machine Learning (AML) Lab</span> and the [Learning, Language, Vision (LLaVi) Lab](https://llavi-lab.github.io/) under the supervision of Dr. Weishi Shi. I completed my Master's degree in Computer Science from the Department of Computer Science and Engineering at the University of North Texas with a 4.00 GPA.
 
-My research focuses on **Deep Active Learning**, **Continual Lifelong Learning**, and **Multi-modal Learning** with a passion for enhancing AI's adaptability and performance.
+My research focuses on **deep active learning**, **continual lifelong learning**, and **multimodal learning**, with the goal of making AI systems more adaptive, robust, and useful in real-world settings.
 
-View my citations and research metrics on the official <a href="https://scholar.google.com/citations?user=AljTQdQAAAAJ&hl=en" rel="me">Md Abdullah Al Forhad Google Scholar Profile</a>.
+<style>
+  .opportunities-callout {
+    margin: 1.25rem 32% 1.25rem 0;
+    padding: 0.9rem 1.1rem;
+    border-left: 4px solid var(--global-theme-color);
+    background: rgba(156, 60, 146, 0.08);
+  }
 
-## News
-- :mortar_board: **[August 2026]** Awarded the International Travel Grant administered by International Affairs, UNT.
-- :mega: **[July 2026]** Research highlighted by [UNT CSE](https://www.linkedin.com/feed/update/urn:li:share:7488599126129958912/) on social media for presenting at **ICML** 2026, Seoul.
-- :mortar_board: **[July 2026]** Awarded Graduate Student Travel Award by Toulouse Graduate School (TGS), UNT.
-- :mega: **[Jun 2026]** Abstract has been selected for the [fourth annual University Research Day Poster Session!](https://research.unt.edu/resources/research-events/research-day-2026/index.html) 
-- :mortar_board: **[May 2026]** Passed Ph.D. dissertation proposal.
-- :fire::fire::fire: **[April 2026]** First-authored [paper](https://alforhad.github.io/MoEConfidence/) on multi-modal continual learning accepted at **ICML** 2026, Seoul, South Korea.
-- :mortar_board: **[Jan 2026]** Awarded $1435 CENG award (Scholarship). 
-- :mortar_board: **[Nov 2025]** Awarded a travel grant by the CSE Department and the College of Engineering, UNT.
-- :star: **[Oct 2025]** First-authored [paper](https://alforhad.github.io/deep-active-relabeling/) on active learning accepted at IEEE BigData 2025, Macau SAR, China.  
-- :mortar_board: **[Sep 2025]** Mentoring two students in the [Undergraduate Research to PhD (UR2PhD)](https://cra.org/ur2phd/) program.
-- :fire: **[May 2025]** Selected for the 2025–2026 International Education Scholarship by UNT International Affairs and awarded the Competitive Scholarship Waiver (CSW). <a href="/images/internationalscholarship25.png" target="_blank">Reception celebrating scholarship awardees.</a>
-- :star: **[Aug 2024]** Awarded $3000 scholarship from USC CENG Schol (GR).
-- :mortar_board: **[Aug 2024]** Awarded a travel grant by the CSE Department and the College of Engineering, UNT.
-- :mega: **[Aug 2024]** First-authored paper on active continual learning accepted at IEEE MIPR 2024,  San Jose, CA, USA.
-- :mega: **[Aug 2024]** Co–first-authored journal article accepted for publication.    
-- :mortar_board: [2023] Passed Ph.D. qualifying requirements and became a Ph.D. Candidate.  
-- :star: [2023] Joined Active Machine Learning (AML) Lab under the supervision of Dr. Weishi Shi.  
-- :mortar_board: [2023] Completed organized graduate coursework in CSE and awarded Pass-Through Master's Degree with GPA 4.00 [[Video :film_projector:](https://youtu.be/yLkW6IKwG98?list=LL&t=6159)].    
+  @media (max-width: 575px) {
+    .opportunities-callout {
+      margin-right: 0;
+    }
+  }
+</style>
 
-## Research Experience
-- **Graduate Research Assistant** — University of North Texas, Denton, TX *(Current)*
+<div class="opportunities-callout">
+  <strong>Actively seeking opportunities</strong><br>
+  I am actively looking for Applied Scientist, Research Scientist, Postdoctoral, and Assistant Professor positions.
+</div>
 
-## Education  
-- **Ph.D. in Computer Science and Engineering** — University of North Texas, Denton, TX, *(Ongoing)*  
-- **M.S. in Computer Science** — University of North Texas, Denton, TX, USA
-  - GPA: 4.00
-  - Rank: 1 of 1391       
+[LinkedIn](https://www.linkedin.com/in/alforhad) · [GitHub](https://github.com/alforhad) · [Google Scholar](https://scholar.google.com/citations?user=AljTQdQAAAAJ&hl=en)
 
-## Selected Publications
+<h2><a href="/news/" style="color: inherit;">news</a></h2>
 
-- **Forhad, M. A. A.**, Zhu, Y., Acharya, A., Liu, X., Yu, Q., & Shi, W. (2026). [Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning.](https://alforhad.github.io/MoEConfidence/) *Proceedings of **ICML 2026***. (**Accepted**)
+{% include news.liquid limit=true %}
 
-- **Forhad, M. A. A.**, Shi, W. (2025). [Deep Active Re-Labeling: Toward Noise-Resilient Annotation Efficiency.](https://alforhad.github.io/deep-active-relabeling/) *IEEE BigData 2025*, pp. 886–895.
+[See all news →](/news/)
 
-- **Forhad, M. A. A.**, Shi, W. (2024). Balancing Explanations and Adaptation in Offline Continual Learning Systems Using Active Augmented Reply. *IEEE MIPR 2024*, pp. 484–490.
+<h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
 
-- Yuan, C.\*, **Forhad, M. A. A.**\*, Bansal, R., Sidorova, A., & Albert, M. V. (2024). Multi-agent Dual Level Reinforcement Learning of Strategy and Tactics in Competitive Games. *Results in Control and Optimization*, 16, 100471.
+{% include selected_papers.liquid %}
 
-
-
+[See all publications →](/publications/)
